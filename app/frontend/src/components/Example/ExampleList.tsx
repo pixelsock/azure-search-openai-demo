@@ -13,8 +13,8 @@ const EXAMPLES: ExampleModel[] = [
         value: "What is the Charlotte Unified Development Ordinance?"
     },
     {
-        text: "List the different zoning districts and compaire the major differences between them.",
-        value: "List the different zoning districts and compaire the major differences between them."
+        text: "What are all the different zoning districts?",
+        value: "What are all the different zoning districts and thier names and brief descriptions?"
     },
     { text: "Write a poem explaining the UDO.", value: "Write a poem explaining the UDO." }
 ];

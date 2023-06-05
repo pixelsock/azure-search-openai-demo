@@ -36,7 +36,7 @@ export const Answer = ({
             <Stack.Item>
                 <Stack horizontal horizontalAlign="space-between">
                     <AnswerIcon />
-                    <div>
+                    {/* <div>
                         <IconButton
                             style={{ color: "black" }}
                             iconProps={{ iconName: "Lightbulb" }}
@@ -53,7 +53,7 @@ export const Answer = ({
                             onClick={() => onSupportingContentClicked()}
                             disabled={!answer.data_points.length}
                         />
-                    </div>
+                    </div> */}
                 </Stack>
             </Stack.Item>
 
